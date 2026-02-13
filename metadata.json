@@ -1,0 +1,7 @@
+{
+  "name": "VisionQuest: Avventura Visiva",
+  "description": "Un'applicazione educativa progettata per bambini dai 5 agli 8 anni per migliorare le abilità visuo-percettive attraverso giochi interattivi, sfide di memoria e orientamento spaziale, con il supporto dell'intelligenza artificiale Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
